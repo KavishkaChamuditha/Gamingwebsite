@@ -1,0 +1,7 @@
+<svg id="email" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <path id="Vector" d="M0,0H20V20H0Z" fill="none" opacity="0"/>
+  <path id="Vector-2" data-name="Vector" d="M12.491,14.145H4.164C1.665,14.145,0,12.9,0,9.984V4.16C0,1.248,1.665,0,4.164,0h8.327c2.5,0,4.164,1.248,4.164,4.16V9.984C16.654,12.9,14.989,14.145,12.491,14.145Z" transform="translate(1.673 2.928)" fill="#b537f2" opacity="0.4"/>
+  <g id="Group" transform="translate(5.188 6.864)">
+    <path id="Vector-3" data-name="Vector" d="M4.812,3.869a3.11,3.11,0,0,1-1.957-.661L.236,1.117A.625.625,0,1,1,1.014.139L3.633,2.23a2,2,0,0,0,2.351,0L8.6.139a.617.617,0,0,1,.878.1.617.617,0,0,1-.1.878L6.761,3.209A3.07,3.07,0,0,1,4.812,3.869Z" transform="translate(0 0)" fill="#b537f2"/>
+  </g>
+</svg>

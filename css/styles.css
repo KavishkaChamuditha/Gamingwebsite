@@ -1,0 +1,800 @@
+.banner {
+    height: 3800px;
+    background: #020312 0% 0% no-repeat padding-box !important;
+}
+
+/* nav bar code start from here */
+.navbar-brand {
+    margin-top: 20px;
+    padding-left: 109px;
+}
+
+.nav-middle {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-middle a {
+    color: rgb(255, 255, 255);
+    padding-left: 32px !important;
+    padding-top: 29px;
+    font: normal normal normal 16px/22px Manrope;
+}
+
+.nav-middle a:hover {
+    color: #B537F2;
+}
+
+.login-nav {
+    margin-left: auto;
+    margin-right: auto;
+    font: normal normal normal 16px/22px Manrope;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.login-nav a {
+    padding-top: 29px !important;
+    color: rgb(255, 255, 255);
+}
+
+.login-nav a:hover {
+    color: #B537F2;
+}
+
+.navbar-toggler-icon {
+    background-color: #B537F2;
+    padding-left: 70px;
+}
+
+.btn-login {
+    margin-left: 24px;
+    margin-top: 20px !important;
+    margin-right: 108px !important;
+    width: 137px;
+    height: 40px;
+    background: #B537F2 0% 0% no-repeat padding-box !important;
+    font: normal normal bold 16px/22px Manrope !important;
+}
+
+.btn-login:hover {
+    background: transparent linear-gradient(106deg, #B537F2 0%, #3788F2 100%) 0% 0% no-repeat padding-box !important;
+}
+
+.navbar-bg-color {
+    background: #020312 0% 0% no-repeat padding-box !important;
+    opacity: 4;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+}
+
+.navbar {
+    z-index: 200;
+    position: fixed !important;
+    width: 1680px;
+}
+
+/* navbar code stop from here */
+
+/* banner codes start from here */
+.banner-rightsid-style {
+    top: -613px !important;
+    left: -379px !important;
+    width: 400px;
+    height: 500px;
+    background: #B537F2 0% 0% no-repeat padding-box;
+    opacity: 0.09;
+    filter: blur(50px);
+}
+
+.banner-leftsid-style {
+    margin-left: 1200px;
+    width: 400px;
+    height: 300px;
+    background: #68BBE3 0% 0% no-repeat padding-box;
+    opacity: 0.09;
+    filter: blur(50px);
+}
+
+.banner-heading {
+    z-index: 40;
+    font-size: 91px !important;
+    padding-top: 88px;
+    margin-top: -650px;
+    width: 704px;
+    height: 296px;
+    text-align: left;
+    font: normal normal 600 91px/96px Clash Display;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.word-gradiant {
+    background: -webkit-linear-gradient(98deg, #B537F2 0%, #3788F2 100%) 0% 0% no-repeat padding-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+h1 {
+    color: transparent linear-gradient(98deg, #B537F2 0%, #3788F2 100%) 0% 0% no-repeat padding-box !important;
+}
+
+.banner-text {
+    padding-top: 120px;
+    margin-right: 80.44px;
+    width: 600px;
+    height: 46px;
+    text-align: left;
+    font: normal normal normal 16px/24px Manrope;
+    letter-spacing: 0px;
+    color: #CCCCCF;
+    opacity: 1;
+}
+
+.btn-undertxt {
+    margin-top: 77px !important;
+    padding-left: 22px !important;
+    padding-right: 22px !important;
+    padding-top: 13px !important;
+    padding-bottom: 22px !important;
+    text-align: center !important;
+    width: 219px;
+    height: 48px;
+    background: #B537F2 0% 0% no-repeat padding-box !important;
+    font: normal normal bold 16px/22px Manrope !important;
+    letter-spacing: 0px !important;
+    color: #FFFFFF;
+    z-index: 20 !important;
+}
+
+
+.btn-undertxt:hover {
+    background: transparent linear-gradient(102deg, #B537F2 0%, #3788F2 100%) 0% 0% no-repeat padding-box !important;
+}
+
+.btn-righttxt {
+    z-index: 20 !important;
+    margin-top: -35px;
+    padding-left: 300px !important;
+    text-decoration: none !important;
+    text-align: left;
+    font: normal normal bold 16px/22px Manrope;
+    letter-spacing: 0px;
+    color: #B537F2;
+    opacity: 1;
+}
+
+.btn-righttxt:hover {
+    color: #CCCCCF !important;
+}
+
+
+.img-banner {
+    /* margin-top: 400px !important;  */
+    padding-right: -100px;
+    margin-left: 110px;
+    margin-top: -600px !important;
+    left: 788px !important;
+    width: 652px;
+    height: 640px;
+    background: transparent 0% 0% no-repeat padding-box !important;
+}
+
+/* banner codes stop from here */
+
+/*first section code start from here  */
+
+.first-section {
+    top: 600px !important;
+    height: 947px !important;
+    background: #343541 0% 0% no-repeat padding-box !important;
+    opacity: 1;
+}
+
+/* fs means first section */
+
+.fs-heading {
+    margin-top: 24px !important;
+    text-align: center !important;
+    font: normal normal 600 60px/65px Clash Display !important;
+    letter-spacing: 0px !important;
+    color: #FFFFFF !important;
+}
+
+.arrow-icon {
+    margin-left: -40px;
+}
+
+.fs-btn {
+    margin-top: 123px !important;
+    width: 112px !important;
+    height: 32px !important;
+    /* UI Properties */
+    background: #3788F229 0% 0% no-repeat padding-box !important;
+    border: 1px solid #3788F2 !important;
+    opacity: 1 !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+    font: normal normal bold 14px/24px Manrope !important;
+    letter-spacing: 1.4px !important;
+    color: #3788F2 !important;
+    text-transform: uppercase !important;
+    opacity: 1;
+}
+
+.fs-text-line {
+    padding-top: 16px;
+    padding-bottom: 56px;
+    text-align: center !important;
+    font: normal normal normal 16px/24px Manrope !important;
+    letter-spacing: 0px !important;
+    color: #CCCCCF !important;
+}
+
+.card-button {
+    padding-top: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 36px !important;
+    height: 30px;
+    background: rgba(255, 255, 255, 0.1) 0% 0% no-repeat padding-box;
+    text-align: left;
+    font: normal normal normal 12px/24px Manrope;
+    letter-spacing: 0px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.txt-car {
+    margin-top: -400px !important;
+}
+
+.third-text {
+    width: 78px !important;
+}
+
+.card-wrapper {
+    display: flex !important;
+}
+
+.arrow-icon-left {
+    margin-left: -340px;
+}
+
+.arrow-icon-right {
+    margin-right: -300px;
+}
+
+.card {
+    background: #020312 0% 0% no-repeat padding-box !important;
+    opacity: 1;
+    text-align: left;
+    font: normal normal normal 16px/24px Manrope;
+    letter-spacing: 0px;
+    color: #CCCCCF;
+}
+
+.card-img {
+    padding-top: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.card-heading {
+    margin-top: 9px;
+    margin-left: 12px;
+    text-align: left !important;
+    font: normal normal 600 24px/29px Clash Display !important;
+    letter-spacing: 0px !important;
+    color: #FFFFFF !important;
+    opacity: 1 !important;
+}
+
+.card-txt {
+    margin-left: 12px;
+    text-align: left !important;
+    font: normal normal normal 16px/24px Manrope !important;
+    letter-spacing: 0px !important;
+    color: #CCCCCF !important;
+    opacity: 1;
+}
+
+.card-link {
+    margin-left: 12px;
+    text-align: left;
+    font: normal normal bold 16px/22px Manrope !important;
+    letter-spacing: 0px;
+    color: #B537F2;
+    opacity: 1;
+    text-decoration: none;
+}
+
+.card-link:hover {
+    color: #CCCCCF !important;
+}
+
+.card-link-first {
+    margin-left: 12px;
+    text-align: left;
+    font: normal normal bold 16px/22px Manrope !important;
+    letter-spacing: 0px;
+    color: #B537F2;
+    opacity: 1;
+    text-decoration: none;
+}
+
+
+.card-link-first:hover {
+    color: #CCCCCF;
+}
+
+
+/* toggle button code start from here */
+.toggle {
+    z-index: 50;
+    margin-top: 500px;
+}
+
+.toggle-1 {
+    width: 8px !important;
+    height: 8px !important;
+    border: 1px solid #B537F2;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+.toggle-2 {
+    width: 33px !important;
+    height: 8px !important;
+    background: #B537F2 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+.toggle-3 {
+    width: 8px !important;
+    height: 8px !important;
+    border: 1px solid #B537F2;
+    border-radius: 5px !important;
+    opacity: 1;
+}
+
+/* toggle button code stop from here */
+
+
+.icon {
+    width: 40px;
+    height: 40px;
+}
+
+/* section two codes start from here */
+
+.gradiant-second {
+    width: 1247px;
+    height: 1247px;
+    background: #B537F2 0% 0% no-repeat padding-box;
+    opacity: 0.08;
+    filter: blur(50px);
+}
+
+/* se mean section */
+.setwo-name {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: -950px !important;
+    width: 112px !important;
+    height: 32px !important;
+    background: #3788F229 0% 0% no-repeat padding-box !important;
+    border: 1px solid #3788F2 !important;
+    opacity: 1 !important;
+    text-align: center !important;
+    font: normal normal bold 14px/24px Manrope !important;
+    letter-spacing: 1.4px !important;
+    color: #3788F2 !important;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.setwo-heading {
+    z-index: 100;
+    margin-top: -850px !important;
+    text-align: center !important;
+    font: normal normal 600 60px/65px Clash Display !important;
+    letter-spacing: 0px !important;
+    color: #FFFFFF !important;
+    opacity: 1 !important;
+}
+
+.setwo-txt {
+    margin-top: -770px !important;
+    padding-top: 16px;
+    text-align: center;
+    font: normal normal normal 16px/24px Manrope;
+    letter-spacing: 0px;
+    color: #CCCCCF;
+    opacity: 1;
+}
+
+.img-1 {
+    margin-top: -675px !important;
+    margin-left: -10px !important;
+}
+
+.img-2 {
+    padding-left: 190px !important;
+    margin-top: -680px !important;
+    /* padding-top: 50px; */
+}
+
+.img-3 {
+    padding-left: 190px !important;
+    padding-top: 20px;
+    margin-top: -380px !important;
+}
+
+.img-4 {
+    padding-left: 70px !important;
+    margin-top: -360px !important;
+}
+
+.img-5 {
+    padding-left: 70px !important;
+    padding-top: 20px;
+    margin-top: -700px !important;
+
+}
+
+.gallery {
+    margin-top: 56px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.link-below-gallery {
+    margin-bottom: 121px;
+    text-decoration: none;
+    text-align: left;
+    font: normal normal bold 16px/22px Manrope;
+    letter-spacing: 0px;
+    color: #B537F2;
+    opacity: 1;
+}
+
+.link-below-gallery:hover {
+    color: #CCCCCF;
+}
+
+
+.gallery-arrow {
+    width: 24px;
+    height: 24px;
+    background: transparent url('img/arrow.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+/* section two code stop form here */
+
+/* gradiant color part code start from here */
+
+.gradiant-color {
+    width: 1224px;
+    height: 443px;
+    margin-top: -200px !important;
+    background: transparent linear-gradient(111deg, #B537F2 0%, #3788F2 100%) 0% 0% no-repeat padding-box;
+    -webkit-backdrop-size: cover !important;
+    background-size: cover !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+.gra-heding {
+    padding-top: 80px;
+    text-align: center;
+    font: normal normal 600 60px/65px Clash Display !important;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.gra-txt {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font: normal normal normal 16px/24px Manrope;
+    letter-spacing: 0px;
+    color: #CCCCCF;
+    opacity: 1;
+}
+
+.mail-address {
+    width: 275px;
+    height: 48px;
+    background: #FFFFFF0D 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF66;
+    opacity: 1;
+}
+
+::placeholder {
+    text-align: left;
+    font: normal normal normal 16px/24px Manrope;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.4;
+}
+
+.gra-button {
+    width: 129px !important;
+    height: 48px !important;
+    padding-top: 13px !important;
+    padding-bottom: 13px !important;
+    padding-left: 26px !important;
+    padding-right: 25px !important;
+    margin-bottom: 5px !important;
+    margin-left: -6px !important;
+    background: #020312 0% 0% no-repeat padding-box !important;
+    text-align: center !important;
+    font: normal normal bold 16px/22px Manrope !important;
+    letter-spacing: 0px !important;
+    color: #FFFFFF !important;
+    opacity: 1 !important;
+}
+
+.gra-button:hover {
+    color: #B537F2 !important;
+}
+
+/* gradiant color code stop from here */
+
+/* footer codes start from here */
+.bg-color {
+    background: #020312 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+.fotter-txt {
+    margin-top: 23px;
+    text-align: left;
+    font: normal normal normal 16px/24px Manrope;
+    letter-spacing: 0px;
+    color: #999AA0;
+}
+
+.contact-txt {
+    margin-top: 24px !important;
+    text-align: left;
+    font: normal normal normal 16px/24px Manrope;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.links-heading {
+    text-align: left !important;
+    font: normal normal bold 14px/24px Manrope !important;
+    letter-spacing: 1.4px !important;
+    color: #999AA0 !important;
+    text-transform: uppercase !important;
+    opacity: 1 !important;
+    text-decoration: none;
+}
+
+.footer-links {
+    margin-top: 16px !important;
+    text-decoration: none;
+}
+
+.links-color {
+    text-align: left !important;
+    font: normal normal normal 16px/24px Manrope !important;
+    letter-spacing: 0px !important;
+    color: #FFFFFF !important;
+    opacity: 1 !important;
+}
+
+.links-color:hover {
+    color: #B537F2 !important;
+}
+
+.social-icon {
+    margin-top: 16px !important;
+    margin-left: -10px !important;
+}
+
+.copy-right {
+    text-decoration: none !important;
+    text-align: center !important;
+    font: normal normal normal 16px/24px Manrope !important;
+    letter-spacing: 0px !important;
+    color: #999AA0 !important;
+    opacity: 1 !important;
+}
+
+.border-bottom {
+    margin-right: 108px;
+    margin-left: 108px;
+    margin-top: 40px !important;
+}
+
+/* responsive code start from here */
+
+@media all and (max-width: 890px) {
+    .banner-heading {
+        padding-left: 10px;
+        align-items: center !important;
+        font-size: 50px !important;
+
+    }
+
+    .txt-break {
+        display: block !important;
+
+    }
+
+    .btn-righttxt {
+        padding-left: 70px !important;
+        padding-top: 20px !important;
+
+    }
+
+    .banner {
+        height: 6900px !important;
+
+    }
+
+    .img-banner {
+        margin-left: -40px;
+
+    }
+
+    .card {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30px !important;
+        width: 360px !important;
+        height: 457px !important;
+    }
+}
+
+@media all and (max-width: 755px) {
+    .first-section {
+        padding-bottom: 1100px;
+    }
+}
+
+@media all and (max-width: 884px) {
+    .img-1 {
+        margin-top: -590px !important;
+        margin-left: auto;
+        margin-right: auto;
+        width: 360px !important;
+    }
+
+    .img-2 {
+        margin-top: -220px !important;
+        margin-left: -150px !important;
+    }
+
+    .img-3 {
+        margin-top: 10px !important;
+        margin-left: -150px !important;
+    }
+
+    .img-4 {
+        margin-top: 10px !important;
+        margin-left: -30px !important;
+
+    }
+
+    .img-5 {
+        margin-top: 20px !important;
+        margin-left: -30px !important;
+    }
+
+    .img-banner {
+        margin-top: -590px !important;
+        margin-top: 70px !important;
+    }
+
+    .txtandicon {
+        margin-top: 20px !important;
+        margin-left: -60px !important;
+    }
+
+    .setwo-txt {
+        padding-top: 120px !important;
+
+    }
+
+}
+
+@media all and (max-width: 862px) {
+    .navbar-toggler-icon {
+        margin-left: -790px !important;
+
+    }
+}
+
+@media all and (max-width: 844px) {
+    .navbar-toggler-icon {
+        margin-left: -900px !important;
+
+    }
+
+    .card-wrapper {
+
+        display: inline-flex;
+
+    }
+
+    .card-cs {
+        display: flex;
+    }
+}
+
+@media all and (max-width: 860px) {
+    .arrow-icon-left {
+        margin-left: 10px !important;
+    }
+
+    .arrow-icon-right {
+        margin-right: 40px !important;
+    }
+
+    .gra-button {
+        margin-top: 30px !important;
+    }
+
+    .gradiant-color {
+        height: 620px;
+    }
+}
+
+@media all and (max-width: 872px) {
+    .navli {
+        margin-left: -805px !important;
+    }
+}
+
+
+@media all and (max-width: 667px) {
+    .img-1 {
+        margin-left: 2px !important;
+    }
+
+    .img-2 {
+        margin-left: -170px !important;
+    }
+
+    .img-3 {
+        margin-left: -170px !important;
+    }
+
+    .img-4 {
+        margin-left: -170px !important;
+    }
+
+    .img-4 {
+        margin-left: -50px !important;
+    }
+
+    .img-5 {
+        margin-left: -50px !important;
+    }
+
+    .gra-button {
+        margin-top: 40px !important;
+    }
+
+    .gradiant-color {
+        height: 700px !important;
+    }
+
+    .banner-heading {
+        margin-left: -10px;
+    }
+
+}
